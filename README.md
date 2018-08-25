@@ -1,2 +1,2 @@
 # What's cooking?
-'Whats cooking?' exercise on kaggle
+'What's cooking?' exercise on kaggle
